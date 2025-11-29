@@ -63,12 +63,6 @@
 
 ---
 
-## 📸 Program Output Example
-
-![Program Output](image-2.png)
-
----
-
 ## 👩‍💻 Author
 
 * Menna Rashad
